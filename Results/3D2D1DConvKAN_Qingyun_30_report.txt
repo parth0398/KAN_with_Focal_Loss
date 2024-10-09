@@ -1,0 +1,27 @@
+OA: 0.9848512839460558
+AA: 0.9942320179073364
+Kappa: 0.9831331859144208
+training time: 3294.473096370697
+inferring time: 63.87817573547363
+                           precision    recall  f1-score   support
+
+   Broccoli_green_weeds_1     1.0000    1.0000    1.0000       201
+   Broccoli_green_weeds_2     1.0000    1.0000    1.0000       373
+                   Fallow     1.0000    1.0000    1.0000       198
+        Fallow_rough_plow     1.0000    1.0000    1.0000       139
+            Fallow_smooth     1.0000    1.0000    1.0000       268
+                  Stubble     1.0000    1.0000    1.0000       396
+                   Celery     1.0000    1.0000    1.0000       358
+         Grapes_untrained     0.9644    0.9627    0.9636      1127
+     Soil_vinyard_develop     1.0000    1.0000    1.0000       620
+Corn_senesced_green_weeds     0.9970    1.0000    0.9985       327
+      Lettuce_romaine_4wk     1.0000    1.0000    1.0000       107
+      Lettuce_romaine_5wk     1.0000    1.0000    1.0000       192
+      Lettuce_romaine_6wk     1.0000    1.0000    1.0000        92
+      Lettuce_romaine_7wk     1.0000    1.0000    1.0000       107
+        Vinyard_untrained     0.9437    0.9450    0.9443       727
+ Vinyard_vertical_trellis     1.0000    1.0000    1.0000       181
+
+                 accuracy                         0.9849      5413
+                macro avg     0.9941    0.9942    0.9941      5413
+             weighted avg     0.9848    0.9849    0.9848      5413
