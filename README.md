@@ -38,7 +38,4 @@ Acknowledgement
 The Efficient KAN is implementated from [EfficientKAN](https://github.com/Blealtan/efficient-kan).
 The 3D KAN is implementated from [3DKAN](https://github.com/FirasBDarwish/ConvKAN3D).
 
-## License
-
-Copyright (c) 2024 Ali Jamali. Released under the MIT License. See [LICENSE](LICENSE) for details.
 
